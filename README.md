@@ -1,7 +1,7 @@
 # PAXON REPO
 paxon package repository
 
-for sopsh
+for sopsh, dev environment, newtemd, etc.
 
 ## USAGE
 ```
