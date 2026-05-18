@@ -1,8 +1,13 @@
 Build Instructions
 ==================
 
-1. Compile the source code using `g++`, `cmake` or visual studio.
-2. Move the compiled binary to the `/commands` directory.
+### 1. Manual Build
+1. Compile the source code using the appropriate compiler or build tool for your language (e.g., `g++` or `CMake` for C++, or the respective builder for other languages).
+2. Move the compiled binary to the appropriate directory based on your OS:
+   * **Windows:** Move the executable to the `/commands` directory.
+   * **Linux:** Move the executable to the `~/.local/bin/` directory.
 
-If you install it using paxon, 
-.exe will automatically be placed in the `commands` directory.
+### 2. Installation via Paxon
+If installed via **Paxon**, the executable will be automatically placed in the correct directory:
+* **Windows:** Automatically placed in the `/commands` directory.
+* **Linux:** Automatically placed in the `~/.local/bin/` directory.
