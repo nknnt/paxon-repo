@@ -15,7 +15,7 @@ The Windows, Linux, and macOS builds of Paxon utilize different package reposito
 
 ### 2. Core Architectural Differences
 
-#### 🌐 Windows Runtime
+#### 🪟 Windows Runtime
 * Uses standard Windows executable (`.exe`) handling.
 * Binaries are isolated within the local `/commands` directory.
 
