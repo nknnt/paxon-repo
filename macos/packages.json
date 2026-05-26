@@ -1,6 +1,6 @@
 {
     "paxon": {
-        "version": "1.3.4",
+        "version": "1.3.5",
         "description": "Newtem's official package manager."
     },
     "neko": {
@@ -8,7 +8,12 @@
         "description": "A simple neko in your terminal."
     },
     "lilium": {
-        "version": "1.1.0",
-        "description": "Notification manager supporting OS notifications and TUI notifications."
+        "version": "1.2.0",
+        "description": "Notification manager supporting OS notifications and TUI notifications.",
+        "sub_packages": ["liliumd"]
+    },
+    "liliumd": {
+        "version": "1.2.0",
+        "description": "Background daemon process for lilium notification engine."
     }
 }
