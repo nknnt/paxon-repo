@@ -17,7 +17,7 @@
         "description": "Background daemon process for lilium notification engine."
     },
     "ndr": {
-        "version": "1.0.2",
+        "version": "1.0.3",
         "description": "A lightweight scripting runtime for NetDust."
     }
 }
