@@ -19,5 +19,9 @@
     "ndr": {
         "version": "1.0.3",
         "description": "A lightweight scripting runtime for NetDust."
+    },
+    "femto": {
+        "version": "2.0.0",
+        "description": "A tiny terminal text editor for macOS with search, undo, and line numbers."
     }
 }
