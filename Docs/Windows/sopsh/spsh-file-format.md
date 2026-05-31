@@ -18,4 +18,5 @@ An `.spsh` file can act as:
 # File Extension
 
 ```txt
-.spsh```
+.spsh
+```
