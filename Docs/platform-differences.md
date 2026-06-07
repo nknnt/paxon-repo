@@ -8,7 +8,7 @@ The Windows, Linux, and macOS builds of Paxon utilize different package reposito
 | :--- | :--- | :--- | :--- |
 | **Installation Path** | `%USERPROFILE%\paxon\` | `~/.local/bin/` | `/usr/local/bin/` |
 | **Package Extension** | `.exe` | None (Native Binary) | None (MachO Binary) |
-| **Configuration Path**| `%USERPROFILE%\.config\paxon.rpp` | `~/.config/paxon/` | `~/.config/paxon.json` |
+| **Configuration Path**| `%USERPROFILE%\.config\paxon.json` | `~/.config/paxon/` | `~/.config/paxon.json` |
 | **Main Architecture** | x86_64 | x86_64 | ARM64 (Apple Silicon) |
 | **PATH Registration** | Automatic (Registry `HKCU\Environment`) | Manual (export in shell profile) | Manual (`/usr/local/bin` is pre-registered) |
 
