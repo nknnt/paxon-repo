@@ -25,6 +25,11 @@
         "description": "A lightweight scripting runtime for NetDust.",
         "languages": ["C++"]
     },
+    "passgen": {
+        "version": "1.0.0",
+        "description": "Simple cli random password generator.",
+        "languages": ["Rust"]
+    },
     "femto": {
         "version": "2.0.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
