@@ -4,7 +4,7 @@ Build Instructions
 ### 1. Manual Build
 1. Compile the source code using the appropriate compiler or build tool for your language (e.g., `g++` or `CMake` for C++, or the respective builder for other languages).
 2. Move the compiled binary to the appropriate directory based on your OS:
-   * **Windows:** Move the executable to the `/commands` directory.
+   * **Windows:** Move the executable to the automatic (Registry HKCU\Environment) directory.
    * **Linux:** Move the executable to the `~/.local/bin/` directory.
    * **macOS:** Move the executable to the `/usr/local/bin/` directory.
 
