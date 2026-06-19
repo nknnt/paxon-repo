@@ -36,7 +36,7 @@
         "languages": ["C++"]
     },
     "demara": {
-        "version": "0.1.0",
+        "version": "0.1.1",
         "description": "Cryptography test cli app.",
         "languages": ["C++"]
     },
