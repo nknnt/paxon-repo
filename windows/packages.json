@@ -23,6 +23,10 @@
         "version": "1.1.0",
         "description": "Automatic updater for sopsh."
     },
+    "nityl": {
+        "version": "1.1",
+        "description": "Minimal cli agent."
+    },
     "femto": {
         "version": "1.0.0",
         "description": "A tiny text editor for Windows."
