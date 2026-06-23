@@ -40,6 +40,11 @@
         "description": "Cryptography test cli app.",
         "languages": ["C++"]
     },
+    "genora": {
+        "version": "0.3.0",
+        "description": "Genora is a simple, cross platform terminal P2P chat app.",
+        "languages": ["C++"]
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
