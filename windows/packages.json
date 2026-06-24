@@ -28,7 +28,7 @@
         "description": "Minimal cli agent."
     },
     "genora": {
-        "version": "0.3.0",
+        "version": "0.4.0",
         "description": "Genora is a simple, cross-platform terminal P2P chat app."
     },
     "femto": {
