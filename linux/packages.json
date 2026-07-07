@@ -24,6 +24,11 @@
         "description": "ntasm V26A runtime.",
         "languages": ["C++"]
     },
+    "femto": {
+        "version": "2.1.0",
+        "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
+        "languages": ["C++"]
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
