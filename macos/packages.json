@@ -67,6 +67,10 @@
         "version": "1.0.0",
         "description": "CLI thumbnail gallery generator."
     },
+    "niboot": {
+        "version": "1.0.0",
+        "description": "ni ecosystem bootstrapper."
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
