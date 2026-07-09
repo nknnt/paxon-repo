@@ -29,6 +29,11 @@
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
         "languages": ["C++"]
     },
+    "duna": {
+        "version": "0.1.0",
+        "description": "A terminal disk usage navigator.",
+        "languages": ["C++"]
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
