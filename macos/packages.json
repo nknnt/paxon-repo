@@ -58,18 +58,27 @@
     "ipx": {
         "version": "2.0.1",
         "description": "Simple IP utility."
+        "languages": ["C++"]
     },
     "nityl": {
         "version": "1.2",
         "description": "Minimal cli agent."
+        "languages": ["C++"]
     },
     "picae": {
         "version": "1.0.0",
         "description": "CLI thumbnail gallery generator."
+        "languages": ["C++"]
     },
     "niboot": {
         "version": "1.0.0",
         "description": "ni ecosystem bootstrapper."
+        "languages": ["C++"]
+    },
+    "nd-cli": {
+        "version": "1.0",
+        "description": "NetDust build test cli software."
+        "languages": ["C++", "NetDust"]
     },
     "femto": {
         "version": "2.1.0",
