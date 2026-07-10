@@ -80,6 +80,11 @@
         "description": "NetDust build test cli software.",
         "languages": ["C++", "NetDust"]
     },
+    "duna": {
+        "version": "0.1.1",
+        "description": "A terminal disk usage navigator.",
+        "languages": ["C++"]
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
