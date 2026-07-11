@@ -1,6 +1,6 @@
 {
     "paxon": {
-        "version": "1.3.8",
+        "version": "1.3.9",
         "description": "Newtem's official package manager.",
         "languages": ["C++"]
     },
