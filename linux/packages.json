@@ -43,7 +43,7 @@
     "nityl": {
         "version": "1.2",
         "description": "Minimal cli agent.",
-        "languages": ["C++"]
+        "languages": ["C++"],
         "sha256": "d91a16792a7b530fb78081824cce9978046951c82556ac0aeeb5fddc2ea52faa"
     },
     "neko": {
