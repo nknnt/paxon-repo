@@ -67,6 +67,12 @@
         "languages": ["C++"],
         "sha256": "e73749783862e61c7f543d8c777b7414fed85b460018fa7bb70f28243dc1f7d3"
     },
+    "initpad": {
+        "version": "1.0.0",
+        "description": "Simple login items utility.",
+        "languages": ["C++"],
+        "sha256": "b6a6adf7c694addc8d514086f65f8c5eb6ce47d3c135292411bd2ca71b4826fe"
+    },
     "nityl": {
         "version": "1.3",
         "description": "Minimal cli agent.",
