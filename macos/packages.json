@@ -67,6 +67,12 @@
         "languages": ["C++"],
         "sha256": "a4329f53f56383950a8672abb17decb41a5b7a988a46d1c255be46bc0dba638e"
     },
+    "zram": {
+        "version": "1.0.0",
+        "description": "Simple ram usage utility.",
+        "languages": ["C++"],
+        "sha256": "ea376c65f7fda365425a0f1c83f83927195c984f53e308d0a87342f7ae406ef9"
+    },
     "initpad": {
         "version": "1.1.0",
         "description": "Simple login items utility.",
