@@ -105,6 +105,12 @@
         "languages": ["C++"],
         "sha256": "aa69bc001391117fabbef01023a4565add0dea0158865ed7c5dabb767d44ebc0"
     },
+    "meyku-hello": {
+        "version": "0.1.0",
+        "description": "Example third party module for meyku",
+        "languages": ["C++"],
+        "sha256": "b06fbdd8602d953afc30a225229330d7b4f364ead9f478fbc2c2faf4be16772c"
+    },    
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
