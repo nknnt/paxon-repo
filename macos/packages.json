@@ -99,6 +99,12 @@
         "description": "A terminal disk usage navigator.",
         "languages": ["C++"]
     },
+    "meyku": {
+        "version": "0.1.0",
+        "description": "A chill terminal companion.",
+        "languages": ["C++"],
+        "sha256": "aa69bc001391117fabbef01023a4565add0dea0158865ed7c5dabb767d44ebc0"
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
