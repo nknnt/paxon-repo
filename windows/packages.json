@@ -1,38 +1,47 @@
 {
     "paxon": {
         "version": "1.3.8",
-        "description": "Newtem's official package manager."
+        "description": "Newtem's official package manager.",
+        "languages": ["C++"]
     },
     "neko": {
         "version": "1.0.0",
-        "description": "A simple neko in your terminal."
+        "description": "A simple neko in your terminal.",
+        "languages": ["C++"]
     },
     "ipx": {
-        "version": "1.0.0",
-        "description": "Simple IP utility."
+        "version": "2.0.1",
+        "description": "Simple IP utility.",
+        "languages": ["C++"]
     },
     "sopsh": {
         "version": "1.0.2606.7",
-        "description": "Minimal shell for Windows."
+        "description": "Minimal shell for Windows.",
+        "languages": ["C++"]
     },
     "uinfo": {
         "version": "1.0.3",
-        "description": "Minimal fetch."
+        "description": "Minimal fetch.",
+        "languages": ["C++"]
     },
     "updater": {
         "version": "1.1.0",
-        "description": "Automatic updater for sopsh."
+        "description": "Automatic updater for sopsh.",
+        "languages": ["C++"]
     },
     "nityl": {
         "version": "1.1",
-        "description": "Minimal cli agent."
+        "description": "Minimal cli agent.",
+        "languages": ["C++"]
     },
     "genora": {
         "version": "0.4.0",
-        "description": "Genora is a simple, cross-platform terminal P2P chat app."
+        "description": "Genora is a simple, cross-platform terminal P2P chat app.",
+        "languages": ["C++"]
     },
     "femto": {
         "version": "1.0.0",
-        "description": "A tiny text editor for Windows."
+        "description": "A tiny text editor for Windows.",
+        "languages": ["C++"]
     }
 }
