@@ -21,6 +21,17 @@
         "description": "Background daemon process for lilium notification engine.",
         "languages": ["C++"]
     },
+    "izmiid": {
+        "version": "0.1.0",
+        "description": "Local account/auth system shared across ne(formerly ni) tools, with connected app grant tracking.",
+        "languages": ["C++"],
+        "sub_packages": ["izmiidd"]
+    },
+    "izmiidd": {
+        "version": "0.1.0",
+        "description": "Background daemon for izmiid — serves auth requests over a local unix socket.",
+        "languages": ["C++"]
+    },
     "ndr": {
         "version": "1.1.2",
         "description": "A lightweight scripting runtime for NetDust.",
