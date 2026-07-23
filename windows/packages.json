@@ -21,9 +21,10 @@
         "languages": ["C++"]
     },
     "sopsh": {
-        "version": "1.0.2606.7",
+        "version": "1.0.2607.8",
         "description": "Minimal shell for Windows.",
-        "languages": ["C++"]
+        "languages": ["C++"],
+        "sha256": "5bf75cca897b7f3991618e604769cd14c65a41e199af6675b3fb41e1e599efa8"
     },
     "uinfo": {
         "version": "1.0.3",
