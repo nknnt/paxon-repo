@@ -52,6 +52,12 @@
         "description": "Genora is a simple, cross-platform terminal P2P chat app.",
         "languages": ["C++"]
     },
+    "astrolabe": {
+        "version": "0.2.0",
+        "description": "Manage non steam games, launch them, and track playtime.",
+        "languages": ["C++"],
+        "sha256": "12b90ea38093f7fa9f3e9c50e4911b6d29e725ba15d9bb2ea68bf5ef829af441"
+    },
     "femto": {
         "version": "1.0.0",
         "description": "A tiny text editor for Windows.",
