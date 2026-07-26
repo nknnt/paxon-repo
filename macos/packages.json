@@ -123,6 +123,12 @@
         "languages": ["C++"],
         "sha256": "205f559072fa2f54b86b3bc71358077f4dc71a05760b21f4872c25befb93280a"
     },
+    "nullmail": {
+        "version": "0.1.0",
+        "description": "A message in a bottle for your LAN.",
+        "languages": ["C++"],
+        "sha256": "7096e919f3c877e325ad19386af5c02dacb4eea86e542f5cb5ba17efc0012bf1"
+    },
     "meyku": {
         "version": "0.1.1",
         "description": "A chill terminal companion.",
