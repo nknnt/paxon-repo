@@ -85,6 +85,12 @@
         "languages": ["C++"],
         "sha256": "ea376c65f7fda365425a0f1c83f83927195c984f53e308d0a87342f7ae406ef9"
     },
+    "crybat": {
+        "version": "1.1.0",
+        "description": "Battery health monitor.",
+        "languages": ["C++"],
+        "sha256": "0ec48a9a92fed103b5677af9c9543213fe648b70fbbc05d29debc326adb3e60b"
+    },
     "initpad": {
         "version": "1.1.0",
         "description": "Simple login items utility.",
