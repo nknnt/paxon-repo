@@ -22,6 +22,6 @@ paxon -S <package-name>
  + Linux Build: Standard version balancing new features and stability.
 
 > [!CAUTION]
-> GitHub repo no longer works with paxon version 1.4.1 or earlier.
+> Due to a logic update, this repo no longer works with version 1.4.1 or earlier.
 >
-> Update to the latest version using `paxon update`.
+> Please update to the latest version using `paxon update`.
