@@ -3,6 +3,8 @@
 Paxon is a lightweight package repository for **sopsh**, **development environments**, and other components of the **ni ecosystem**.
 The official default mirror for paxon is this github repository.
 
+[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-18181b?style=flat&color=FFC0FF)](...)
+
 ---
 
 ## Installation
@@ -14,12 +16,6 @@ paxon -S <package-name>
 ```
 
 ---
-
-## OS Build Variants
-
- + Windows Build: Stable and optimized production ready version.
- + macOS Build: Beta version including the latest experimental features.
- + Linux Build: Standard version balancing new features and stability.
 
 > [!CAUTION]
 > Due to a logic update, this repo no longer works with version 1.4.1 or earlier.
