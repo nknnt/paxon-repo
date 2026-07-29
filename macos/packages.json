@@ -91,6 +91,12 @@
         "languages": ["C++"],
         "sha256": "0ec48a9a92fed103b5677af9c9543213fe648b70fbbc05d29debc326adb3e60b"
     },
+    "crytemp": {
+        "version": "1.0.0",
+        "description": "Thermal & throttle monitor.",
+        "languages": ["C++"],
+        "sha256": "31f379c2ae283b149485b231ea053130b6ea500a02b88ec9287e02274b9290bb"
+    },
     "initpad": {
         "version": "1.1.0",
         "description": "Simple login items utility.",
