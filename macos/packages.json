@@ -8,7 +8,8 @@
     "neko": {
         "version": "1.1.0",
         "description": "A simple neko in your terminal.",
-        "languages": ["C++"]
+        "languages": ["C++"],
+        "sha256": "9c12614129ecdd8b7e7a5d172c9e4b511c845ac2e0fbeeba9db1c1be51c44ca6"
     },
     "lilium": {
         "version": "1.2.0",
