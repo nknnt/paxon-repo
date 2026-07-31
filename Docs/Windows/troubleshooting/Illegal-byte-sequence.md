@@ -14,5 +14,5 @@ terminate called after throwing an instance of 'std::filesystem::__cxx11::filesy
 + Enable windows UTF-8 global support
 
 
-## Fixed!
+## Resolved!
 + Please install latest version of paxon.
