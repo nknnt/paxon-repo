@@ -1,6 +1,30 @@
 {
+  "std.array.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/array.nd",
+    "version": "1.0.0"
+  },
+  "std.convert.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/convert.nd",
+    "version": "1.0.0"
+  },
   "std.io.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/io.nd",
+    "version": "1.0.0"
+  },
+  "std.math.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/math.nd",
+    "version": "1.0.0"
+  },
+  "std.random.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/random.nd",
+    "version": "1.0.0"
+  },
+  "std.string.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/string.nd",
+    "version": "1.0.0"
+  },
+  "std.time.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/time.nd",
     "version": "1.0.0"
   }
 }
