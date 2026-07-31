@@ -20,6 +20,9 @@ Install a netdust package using paxon:
 ```bash
 paxon -S netdust@<package-name>
 ```
+> [!NOTE]
+> This feature requires **paxon 1.4.4 or later**.
+
 
 ---
 
