@@ -1,5 +1,5 @@
 {
-  "std.io": {
+  "std.io.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/io.nd",
     "version": "1.0.0"
   }
