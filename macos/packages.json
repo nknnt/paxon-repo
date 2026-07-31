@@ -34,10 +34,10 @@
         "languages": ["C++"]
     },
     "ndr": {
-        "version": "1.2.0",
+        "version": "1.2.1",
         "description": "A lightweight scripting runtime for NetDust.",
         "languages": ["C++"],
-        "sha256": "1457b731904512db19b5c4c30026c014d7675c110466cc3323542ef6b6ce4263"
+        "sha256": "f8b42e30ab40ba71900ad23d216c873fe405f86faec07a25866edb54426e786f"
     },
     "passgen": {
         "version": "1.0.0",
