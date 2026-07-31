@@ -15,6 +15,12 @@ Install a package using paxon:
 paxon -S <package-name>
 ```
 
+Install a netdust package using paxon:
+
+```bash
+paxon -S netdust@<package-name>
+```
+
 ---
 
 > [!CAUTION]
