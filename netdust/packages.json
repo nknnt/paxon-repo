@@ -26,5 +26,9 @@
   "std.time.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/time.nd",
     "version": "1.0.0"
+  },
+  "ntd.env.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/env/env.nd",
+    "version": "1.0.0"
   }
 }
