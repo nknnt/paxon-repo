@@ -105,10 +105,10 @@
         "sha256": "6844a7261c90f2c54ea67ef9aaf0648f55d35ba00390443cc0d450f779a02c4f"
     },
     "nityl": {
-        "version": "1.3",
+        "version": "1.4",
         "description": "Minimal cli agent.",
         "languages": ["C++"],
-        "sha256": "468ff98a9e0839ac0cf4fcf7b432a3024c132a805b4e83c123aa11625665dfeb"
+        "sha256": "d68c3968b881f0168304979757416e658ebc5a5f90fb60dd4678d07e49f6ee19"
     },
     "picae": {
         "version": "1.0.0",
