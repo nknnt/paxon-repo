@@ -36,8 +36,14 @@
     "ndr": {
         "version": "1.2.1",
         "description": "A lightweight scripting runtime for NetDust.",
-        "languages": ["C++"],
+        "languages": ["C++", "Objective-C"],
         "sha256": "f8b42e30ab40ba71900ad23d216c873fe405f86faec07a25866edb54426e786f"
+    },
+    "wsig": {
+        "version": "0.1.0",
+        "description": "wifi signal tool.",
+        "languages": ["Objective-C"],
+        "sha256": "c10e08a56b2332b646d57ed09e3036a49032722068163b1c5ec5a0d556fe3a23"
     },
     "passgen": {
         "version": "1.0.0",
