@@ -34,5 +34,9 @@
   "ntd.fs.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/fs/fs.nd",
     "version": "1.0.0"
+  },
+  "ntd.netclient.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/netclient/netclient.nd",
+    "version": "1.0.0"
   }
 }
