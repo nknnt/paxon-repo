@@ -65,6 +65,12 @@
         "languages": ["C++"],
         "sha256": "297ab00e06fc8190a3ea78d634d5c191b73e0feda5c44db0b0df07f372f4086b"
     },
+    "moodlog": {
+        "version": "1.0.0",
+        "description": "A terminal mood journal.",
+        "languages": ["C++"],
+        "sha256": "b1283dc72108726300c000204e02cded66805948a3a04a8be8f454cf2e92373f"
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
