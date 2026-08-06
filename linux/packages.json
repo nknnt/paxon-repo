@@ -1,9 +1,9 @@
 {
     "paxon": {
-        "version": "1.4.4",
+        "version": "1.4.6",
         "description": "Newtem's official package manager.",
         "languages": ["C++"],
-        "sha256": "8175fbd70a248cb901b08a6de9b3776b166e2cfba23a542333ef02f760a2f89c"
+        "sha256": "0f831fe1cd655e36c981da55a01edb865aba913363921a22ece40a72b429f86d"
     },
     "ipx": {
         "version": "2.0.1",
