@@ -1,11 +1,11 @@
 # Paxon Package Repository
 
-Paxon is a lightweight package repository for **sopsh**, **development environments**, and other components of the **ni ecosystem**.
+Paxon is a lightweight package manager for **sopsh**, **development environments**, and other components of the **ni ecosystem**.
 The official default mirror for paxon is this github repository.
 
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-18181b?style=flat&color=FFC0FF)](...)
 
----
+-----
 
 ## Installation
 
@@ -24,7 +24,7 @@ paxon -S netdust@<package-name>
 > This feature requires **paxon 1.4.4 or later**.
 
 
----
+-----
 
 > [!CAUTION]
 > Due to a logic update, this repo no longer works with version 1.4.1 or earlier.
