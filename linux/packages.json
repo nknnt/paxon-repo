@@ -71,6 +71,12 @@
         "languages": ["C++"],
         "sha256": "b1283dc72108726300c000204e02cded66805948a3a04a8be8f454cf2e92373f"
     },
+    "graynet": {
+        "version": "0.4.0",
+        "description": "Cli h4cking simulation game.",
+        "languages": ["C++"],
+        "sha256": "7bbd6ab640566f2d0f10ad81f59a523ced5fe731f414cfb8bd866cf9842cfae4"
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
