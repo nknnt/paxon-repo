@@ -5,6 +5,8 @@ The official default mirror for paxon is this github repository.
 
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-18181b?style=flat&color=FFC0FF)](...)
 
+See the [paxon website](https://nknnt.com/paxon) for documentation and additional information.
+
 -----
 
 ## Installation
