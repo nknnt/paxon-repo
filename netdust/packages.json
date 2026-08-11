@@ -38,5 +38,9 @@
   "ntd.netclient.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/netclient/netclient.nd",
     "version": "1.0.0"
+  },
+  "ntd.tui.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/tui/tui.nd",
+    "version": "1.0.0"
   }
 }
