@@ -166,6 +166,12 @@
         "languages": ["C++"],
         "sha256": "58e978f0285cfafa2e3628b88329fbdb78e9b5c51f67504ce55f5162ee4d90cf"
     },
+    "sopsh": {
+        "version": "1.0.2608.1",
+        "description": "Minimal shell for macOS.",
+        "languages": ["C++"],
+        "sha256": "2ac535216eebc2251b0f2106c437a6e8cc43b31d5a547ddb12e53d76b1b5e293"
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
