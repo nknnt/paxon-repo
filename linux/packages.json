@@ -17,6 +17,12 @@
         "languages": ["C++"],
         "sha256": "0e09901a5466590803d5cf095550e916127459ac610a24282610c228fd5ee9a1"
     },
+    "zram": {
+        "version": "1.0.0",
+        "description": "Simple ram usage utility.",
+        "languages": ["C++"],
+        "sha256": "7e9f599af68d761df411e47a94ad0dd051eb664620a6e2681ad04926c10f43aa"
+    },
     "lock": {
         "version": "1.0",
         "description": "Simple terminal lock.",
