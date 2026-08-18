@@ -137,10 +137,10 @@
         "languages": ["C++"]
     },
     "moodlog": {
-        "version": "1.1.0",
+        "version": "1.2.0",
         "description": "A terminal mood journal.",
         "languages": ["C++"],
-        "sha256": "04288dd585da3de2fc9699567b5e2c0f0d96ea8d9ede2fcf930b50592c74ae89"
+        "sha256": "d51009d7290ee1fdf714177a24f296e1071b9a448cd6a5331bfd38dfe9b5ee24"
     },
     "nullmail": {
         "version": "0.1.0",
