@@ -83,6 +83,12 @@
         "languages": ["C++"],
         "sha256": "7bbd6ab640566f2d0f10ad81f59a523ced5fe731f414cfb8bd866cf9842cfae4"
     },
+    "ghgrass": {
+        "version": "0.1.0",
+        "description": "Your github grass, right in the terminal.",
+        "languages": ["C++"],
+        "sha256": "323dba595e8e522b5d120f96ca5604c3ef811ffb05bf9603b964167c00511fcc"
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
