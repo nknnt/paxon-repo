@@ -46,5 +46,9 @@
   "lib.lilium.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/lib/lilium/lilium.nd",
     "version": "1.0.0"
+  },
+  "lib.polish.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/lib/polish/polish.nd",
+    "version": "1.0.0"
   }
 }
