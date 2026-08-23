@@ -43,6 +43,17 @@
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/tui/tui.nd",
     "version": "1.1.0"
   },
+  "ntd.ui.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/ui.nd",
+    "version": "1.0.0",
+    "sub_packages": ["button.nd", "dialog.nd", "field.nd", "label.nd", "widget.nd", "window.nd"]
+  },
+  "button.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/button.nd", "version": "1.0.0" },
+  "dialog.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/dialog.nd", "version": "1.0.0" },
+  "field.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/field.nd", "version": "1.0.0" },
+  "label.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/label.nd", "version": "1.0.0" },
+  "widget.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/widget.nd", "version": "1.0.0" },
+  "window.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/window.nd", "version": "1.0.0" },
   "lib.lilium.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/lib/lilium/lilium.nd",
     "version": "1.0.0"
