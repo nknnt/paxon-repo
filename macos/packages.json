@@ -148,6 +148,12 @@
         "languages": ["C++"],
         "sha256": "7096e919f3c877e325ad19386af5c02dacb4eea86e542f5cb5ba17efc0012bf1"
     },
+    "fovea": {
+        "version": "0.1.1",
+        "description": "truecolor image rendering for your terminal.",
+        "languages": ["C++"],
+        "sha256": "e1d2cfa4f30375a79b7b17a5602c2420bbb61109b8c895f0b5b391e6ad681f2f"
+    },
     "meyku": {
         "version": "0.1.1",
         "description": "A chill terminal companion.",
