@@ -83,6 +83,12 @@
         "languages": ["C++"],
         "sha256": "7bbd6ab640566f2d0f10ad81f59a523ced5fe731f414cfb8bd866cf9842cfae4"
     },
+    "fovea": {
+        "version": "0.1.1",
+        "description": "truecolor image rendering for your terminal.",
+        "languages": ["C++"],
+        "sha256": "aa379b2122d7b6503a0ad3edb9e11bcfd7e342a5e56e7a6828c6027f68b431ea"
+    },
     "ghgrass": {
         "version": "0.1.0",
         "description": "Your github grass, right in the terminal.",
