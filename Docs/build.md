@@ -2,6 +2,7 @@ Build Instructions
 ==================
 
 ### 1. Manual Build
+> Currently not supported
 1. Compile the source code using the appropriate compiler or build tool for your language (e.g., `g++` or `CMake` for C++, or the respective builder for other languages).
 2. Move the compiled binary to the appropriate directory based on your OS:
    * **Windows:** Move the executable to the automatic `(Registry HKCU\Environment)` directory.
