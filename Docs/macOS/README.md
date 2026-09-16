@@ -8,7 +8,9 @@ The macOS build uses native MachO executable handling and supports direct binary
 
 > [!WARNING]
 > **Architecture Support Note:**
-> While the **Paxon package manager itself** fully supports both Intel (x86_64) and Apple Silicon (ARM64) architectures, **most of the packages** provided through the Paxon repository currently only support ARM-based Macs (Apple Silicon M1/M2/M3/M4). 
+> While the **Paxon package manager itself** fully supports both Intel (x86_64) and Apple Silicon (ARM64) architectures, **most of the packages** provided through the Paxon repository currently only support ARM-based Macs (Apple Silicon M1/M2/M3/M4).
+
+See [platform differences](/Docs/platform-differences.md) for more details.
 
 ### Features
 
