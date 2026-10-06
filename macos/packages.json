@@ -39,6 +39,12 @@
         "languages": ["C++", "Objective-C"],
         "sha256": "ca2218a9f3ebbcaee802ae826dd4d29b2043e5611bbac6273a4308f0bb9ab23f"
     },
+    "t1tan": {
+        "version": "0.1.0",
+        "description": "A lightweight, fast NetDust runtime for servers and embedded use across apps.",
+        "languages": ["C++"],
+        "sha256": "dbe0b40896259f4b0cb2d07c0649fa0c1afc861a57c7918fb5c92cd51ea98a90"
+    },
     "wsig": {
         "version": "0.1.0",
         "description": "wifi signal tool.",
