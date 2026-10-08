@@ -40,10 +40,10 @@
         "sha256": "ca2218a9f3ebbcaee802ae826dd4d29b2043e5611bbac6273a4308f0bb9ab23f"
     },
     "t1tan": {
-        "version": "0.1.0",
+        "version": "0.2.0",
         "description": "A lightweight, fast NetDust runtime for servers and embedded use across apps.",
         "languages": ["C++"],
-        "sha256": "dbe0b40896259f4b0cb2d07c0649fa0c1afc861a57c7918fb5c92cd51ea98a90"
+        "sha256": "9009b1503cefe58aa49e3a0a7597674be047d7445d5b20c12ddfff3a07059b4f"
     },
     "wsig": {
         "version": "0.1.0",
