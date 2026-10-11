@@ -160,6 +160,12 @@
         "languages": ["C++"],
         "sha256": "e1d2cfa4f30375a79b7b17a5602c2420bbb61109b8c895f0b5b391e6ad681f2f"
     },
+    "lumendrift": {
+        "version": "0.1.8",
+        "description": "Simple sandbox game for mac.",
+        "languages": ["C++"],
+        "sha256": "3be795b0c2f043931e57849dea95a38aa94b94a92f43cbbab8ce7023cf36dd29"
+    },
     "meyku": {
         "version": "0.1.1",
         "description": "A chill terminal companion.",
