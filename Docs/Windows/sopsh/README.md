@@ -1,6 +1,6 @@
 ## Paxon with Sopsh
 
-Sopsh is a Windows-only shell environment designed for streamlined command execution and development workflows.
+Sopsh is a Windows shell (It also supports macOS) environment designed for streamlined command execution and development workflows.
 
 When installed via paxon, it is automatically placed in `/commands`
 
