@@ -71,6 +71,12 @@
         "languages": ["C++"],
         "sha256": "15e3e719533df1e3fe488a63ccef17678f988773f5bb0fedd35eaa9b9410d258"
     },
+    "t1tan": {
+        "version": "0.2.0",
+        "description": "A lightweight, fast NetDust runtime for servers and embedded use across apps.",
+        "languages": ["C++"],
+        "sha256": "5836743fbc899aaee6ff89ad829cdb7589705d47975f47b4db90d790fc053d59"
+    },
     "moodlog": {
         "version": "1.0.0",
         "description": "A terminal mood journal.",
