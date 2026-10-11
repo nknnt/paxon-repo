@@ -20,3 +20,5 @@ An `.spsh` file can act as:
 ```txt
 .spsh
 ```
+**Note on Legacy File Extensions:**<br>
+Previous versions used .rpp and .nts file extensions.
