@@ -34,9 +34,10 @@
         "languages": ["C++"]
     },
     "rolima": {
-        "version": "1.2",
+        "version": "1.3.1",
         "description": "ntasm V26A runtime.",
-        "languages": ["C++"]
+        "languages": ["C++"],
+        "sha256": "f479fc092c07ae522d92894fdedf1973d026a1cab76ea36519c502cb6ead3ec2"
     },
     "genora": {
         "version": "0.4.0",
