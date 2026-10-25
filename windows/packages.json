@@ -3,7 +3,7 @@
         "version": "1.4.6",
         "description": "ni official package manager.",
         "languages": ["C++"],
-        "sha256": "ce24bfb36d1900d579c08cc30d0f0e6060316812a9b141591af4d38d75245235"
+        "sha256": "b092b028bee969ef6ac56025474a43a87b21cb636ac6b67e794c701025bae53c"
     },
     "neko": {
         "version": "1.0.0",
