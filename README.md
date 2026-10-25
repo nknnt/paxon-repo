@@ -25,6 +25,14 @@ paxon -S netdust@<package-name>
 > [!NOTE]
 > This feature requires **paxon 1.4.4 or later**.
 
+-----
+
+## Security and maintenance
+
+Downloads are verified with SHA-256 over HTTPS. Packages without a hash are refused unless you approve them yourself.
+
+- [Integrity and security](Docs/security.md): hash verification, unverified packages, rollback and pinning
+- [For maintainers](Docs/maintainers.md): package index requirements
 
 -----
 
