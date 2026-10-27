@@ -34,10 +34,10 @@
         "languages": ["C++"]
     },
     "ndr": {
-        "version": "1.4.2",
+        "version": "1.4.3",
         "description": "A lightweight scripting runtime for NetDust.",
         "languages": ["C++", "Objective-C"],
-        "sha256": "716b85d9ad22bb313102b2a0dda4017079d7725d571fbd58ff4af58e550bc839"
+        "sha256": "0570f5cebae6eae7882c5fabf98619f6a3261af66193f5a06226230b9e09ab90"
     },
     "t1tan": {
         "version": "0.2.0",
