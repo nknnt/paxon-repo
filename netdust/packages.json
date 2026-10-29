@@ -1,65 +1,110 @@
 {
   "std.array.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/array.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "53fa9c15cbac8e61178da96d4b7a0da63da32de362fbc6da351eee8f878982e4"
   },
   "std.convert.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/convert.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "bd66ca0117a032fc83fe49901efc605b3654ff4a3a508df5722e7c8418b11483"
   },
   "std.io.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/io.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "05a148a9a5ee4e7ed1d2a52184e876309ed298b153444bf4eb0f29b95418ca63"
   },
   "std.math.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/math.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "961e6c01b62628de1779a75ffc16347dbb47110668063141724ec8b1d955e5b9"
   },
   "std.random.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/random.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "755fc889d2d2952ebd7f95aa21759f81dcabe82ad974dbd2a052061fda01864a"
   },
   "std.string.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/string.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "03c4fd68eefcc9eb0131be3526c1cc18f4d6345578ae9b3f1cde2b728234775b"
   },
   "std.time.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/std/time.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "7136285ebf3e4b03419dce9a88a85446ae79990357902187d650ed8d8aec2e12"
   },
   "ntd.env.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/env/env.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "ae455682b21eac31f0cda7674208e342a69aea8e85c638cfacf60614d00a2b4c"
   },
   "ntd.fs.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/fs/fs.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "8a3ca52c3236117b207bc0b53fa06c321b1bf2fdef9d581c67c7f352536f3720"
   },
   "ntd.netclient.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/netclient/netclient.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "614259d062bdbde3efe8e0a19d35f40bbb82d4d64ffeb08c5d51976203e3bd66"
   },
   "ntd.tui.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/tui/tui.nd",
-    "version": "1.1.0"
+    "version": "1.1.0",
+    "sha256": "84c95ba73fbf76219c2beefb776eabef52fe7dc0ce470a24b5e435bef3c0e299"
   },
   "ntd.ui.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/ui.nd",
     "version": "1.0.0",
-    "sub_packages": ["button.nd", "dialog.nd", "field.nd", "label.nd", "widget.nd", "window.nd"]
+    "sub_packages": [
+      "button.nd",
+      "dialog.nd",
+      "field.nd",
+      "label.nd",
+      "widget.nd",
+      "window.nd"
+    ],
+    "sha256": "ea6c37cfd9cb3d3118aa33cf41e8fc455c09398e824c46154e76fa0115aa38e3"
   },
-  "button.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/button.nd", "version": "1.0.0" },
-  "dialog.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/dialog.nd", "version": "1.0.0" },
-  "field.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/field.nd", "version": "1.0.0" },
-  "label.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/label.nd", "version": "1.0.0" },
-  "widget.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/widget.nd", "version": "1.0.0" },
-  "window.nd": { "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/window.nd", "version": "1.0.0" },
+  "button.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/button.nd",
+    "version": "1.0.0",
+    "sha256": "e3faaed4f1f65c16fc06db3c97e1f7e37217a8397e6843dbd0f1e31f20f2aebe"
+  },
+  "dialog.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/dialog.nd",
+    "version": "1.0.0",
+    "sha256": "4174b02622549cfeecc639e4caf31fff927ced47f9d0093e5b804a1e17f75ef2"
+  },
+  "field.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/field.nd",
+    "version": "1.0.0",
+    "sha256": "e1d5316a875d3a84d60618be3642f0a179e2e15b456c6ca61af30ae077ff69e0"
+  },
+  "label.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/label.nd",
+    "version": "1.0.0",
+    "sha256": "642ae1568bb1d3b273d1ac86b9d1bd55bf519f2b3c2db82c0a0630da60b09be1"
+  },
+  "widget.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/widget.nd",
+    "version": "1.0.0",
+    "sha256": "1aec7c1f46a356e6ec095bc39e476aa59b1a14173611d4a74468708441e8ec70"
+  },
+  "window.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/ui/window.nd",
+    "version": "1.0.0",
+    "sha256": "207ffe9ae9e3fe3a130f2f3552542bb729b5aa55e4379bc9bef8329bca42f77f"
+  },
   "lib.lilium.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/lib/lilium/lilium.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "c2500c10c61c8a085e43a49eae06121ee1afef8c0855a62b61fbf2f6b513d5eb"
   },
   "lib.polish.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/lib/polish/polish.nd",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "sha256": "9e5c85c8fc599436e3da6a79b27573623843e4cde7690a4c3ceb387146439325"
   }
 }
