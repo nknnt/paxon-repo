@@ -44,6 +44,11 @@
     "version": "1.0.0",
     "sha256": "8a3ca52c3236117b207bc0b53fa06c321b1bf2fdef9d581c67c7f352536f3720"
   },
+  "ntd.http.nd": {
+    "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/http/http.nd",
+    "version": "1.0.0",
+    "sha256": "8e664292eedff012498458ddec0c76a7b2b9081a1e13e57c3dca2ff932f7c10f"
+  },
   "ntd.netclient.nd": {
     "url": "https://raw.githubusercontent.com/nknnt/netdust/main/ntd/netclient/netclient.nd",
     "version": "1.0.0",
