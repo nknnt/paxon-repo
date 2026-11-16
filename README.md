@@ -1,5 +1,7 @@
 # Paxon Package Repository
 
+**English** · [简体中文](README.zh.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
+
 Paxon is a lightweight package manager for **sopsh**, **development environments**, and other components of the **ni ecosystem**.
 The official default mirror for paxon is this github repository.
 
