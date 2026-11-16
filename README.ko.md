@@ -1,6 +1,6 @@
 # Paxon 패키지 저장소
 
-[English](README.md) · **한국어** · [日本語](README.ja.md) · [简体中文](README.zh.md)
+[English](README.md) · [简体中文](README.zh.md) · [日本語](README.ja.md) · **한국어**
 
 Paxon은 **sopsh**, **개발 환경**, 그리고 **ni 생태계**의 여러 구성 요소를 위한 가벼운 패키지 매니저입니다.
 paxon의 공식 기본 미러는 이 GitHub 저장소입니다.
