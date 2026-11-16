@@ -1,6 +1,6 @@
 # Paxon パッケージリポジトリ
 
-[English](README.md) · [한국어](README.ko.md) · **日本語** · [简体中文](README.zh.md)
+[English](README.md) · [简体中文](README.zh.md) · **日本語** · [한국어](README.ko.md)
 
 Paxon は **sopsh**、**開発環境**、そして **ni エコシステム** の各コンポーネント向けの軽量パッケージマネージャーです。
 paxon の公式デフォルトミラーは、この GitHub リポジトリです。
