@@ -1,9 +1,9 @@
 {
     "paxon": {
-        "version": "1.6.0",
+        "version": "1.7.0",
         "description": "Ni official package manager.",
         "languages": ["C++"],
-        "sha256": "0924376dc39cdf3f0a84d6c88ef5fc6d1e694aa553ec751f639a83014301ac1d"
+        "sha256": "e63116b3b7c1408d43fb30a9e183bb214221b97921ee92d6feb270aaf302d230"
     },
     "ipx": {
         "version": "2.0.1",
