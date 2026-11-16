@@ -1,6 +1,6 @@
 # Paxon 软件包仓库
 
-[English](README.md) · [한국어](README.ko.md) · [日本語](README.ja.md) · **简体中文**
+[English](README.md) · **简体中文** · [日本語](README.ja.md) · [한국어](README.ko.md)
 
 Paxon 是一个轻量级包管理器,服务于 **sopsh**、**开发环境**以及 **ni 生态系统**的其他组成部分。
 paxon 官方默认镜像就是这个 GitHub 仓库。
