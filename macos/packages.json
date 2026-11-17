@@ -196,6 +196,12 @@
         "languages": ["C++"],
         "sha256": "2ac535216eebc2251b0f2106c437a6e8cc43b31d5a547ddb12e53d76b1b5e293"
     },
+    "notify-bridge": {
+        "version": "1.0.0",
+        "description": "NetDust feature: desktop notifications (revit: feature notify bridge as notify;).",
+        "languages": ["C++"],
+        "sha256": "090e2d9da189704b8dfe9d8eedc4de7f9225137bf553c553a0f7cfc53dea22e8"
+    },
     "femto": {
         "version": "2.1.0",
         "description": "A tiny terminal text editor for macOS with search, undo, and line numbers.",
