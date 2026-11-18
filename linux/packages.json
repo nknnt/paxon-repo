@@ -102,6 +102,12 @@
         "languages": ["C++"],
         "sha256": "323dba595e8e522b5d120f96ca5604c3ef811ffb05bf9603b964167c00511fcc"
     },
+    "hibi": {
+        "version": "0.2.0",
+        "description": "Minimal diary, spending, and routine tracker.",
+        "languages": ["C++"],
+        "sha256": "bb580e61f411aef7bb28c9008301b78b1256164a966fa2b2326dfd4efac784b3"
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
