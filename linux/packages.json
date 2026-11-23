@@ -114,6 +114,18 @@
         "languages": ["C++"],
         "sha256": "9c87fabbc4c82f29645bf2a6913565842468638580e19114bd2740a32225c81a"
     },
+    "clipboard-bridge": {
+        "version": "1.0.0",
+        "description": "NetDust feature: system clipboard get/set (revit: feature clipboard-bridge as clip;).",
+        "languages": ["C++"],
+        "sha256": "dff58c90e2acf22555dd1f57a684720054017674491d9d34e4724323657d294d"
+    },
+    "sysinfo-bridge": {
+        "version": "1.0.0",
+        "description": "NetDust feature: OS, CPU, memory, uptime, load and battery info (revit: feature sysinfo-bridge as sys;).",
+        "languages": ["C++"],
+        "sha256": "292b3bc456ca6a33bd0523e6781e20492d876e5e314e53903cf93f59d43859fd"
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
