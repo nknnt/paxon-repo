@@ -108,6 +108,12 @@
         "languages": ["C++"],
         "sha256": "bb580e61f411aef7bb28c9008301b78b1256164a966fa2b2326dfd4efac784b3"
     },
+    "open-bridge": {
+        "version": "1.0.0",
+        "description": "NetDust feature: open URLs and files with the default app (revit: feature open-bridge as open;).",
+        "languages": ["C++"],
+        "sha256": "9c87fabbc4c82f29645bf2a6913565842468638580e19114bd2740a32225c81a"
+    },
     "neko": {
         "version": "1.0.0",
         "description": "A simple neko in your terminal.",
