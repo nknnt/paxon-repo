@@ -108,6 +108,12 @@
         "languages": ["C++"],
         "sha256": "bb580e61f411aef7bb28c9008301b78b1256164a966fa2b2326dfd4efac784b3"
     },
+    "notify-bridge": {
+        "version": "1.0.0",
+        "description": "NetDust feature: desktop notifications (revit: feature notify-bridge as notify;).",
+        "languages": ["C++"],
+        "sha256": "5ada79d79dd7e5ada6393578ab88b25e6af7b14f3a569bfba8d034e0040b8f60"
+    },
     "open-bridge": {
         "version": "1.0.0",
         "description": "NetDust feature: open URLs and files with the default app (revit: feature open-bridge as open;).",
