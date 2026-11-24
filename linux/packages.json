@@ -67,10 +67,10 @@
         "sha256": "d91a16792a7b530fb78081824cce9978046951c82556ac0aeeb5fddc2ea52faa"
     },
     "ndr": {
-        "version": "1.5.0",
+        "version": "1.6.0",
         "description": "A lightweight scripting runtime for NetDust.",
         "languages": ["C++"],
-        "sha256": "70b7e97fb61c0c4b3c1825703ea882c7df0aefa1e47808de745cb8e4100c335c"
+        "sha256": "07f14b58c19a095fda7357eeeb9ed55da81f9391a62589a7391ed1306305892d"
     },
     "t1tan": {
         "version": "0.2.0",
